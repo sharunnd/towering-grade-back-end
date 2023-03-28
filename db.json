@@ -1,0 +1,232 @@
+{
+    "men": [
+        {
+            "id" : "1",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-green-fish-graphic-printed-slim-fit-t-shirt-494927-1656174789-1.jpg",
+            "title": "Men's Green Slim Fit T-shirt",
+            "category":"t-shirt",
+            "price": 259,
+            "size": "M"
+          
+         },
+         {
+            "id" : "2",
+            "brand":"Snitch",
+            "rating":4.5,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-blue-phases-graphic-printed-oversized-t-shirt-572292-1675256707-1.jpg",
+            "title": "Men's Blue T Shirt",
+            "category":"t-shirt",
+            "price": 899,
+            "size": "L"
+          
+         },
+         {
+            "id" : "3",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/snitch-geometric-mustard-graphic-t-shirt-363518-1656181154-1.jpg",
+            "title": "Geometric T Shirt",
+            "category":"t-shirt",
+            "price": 719,
+            "size": "M"
+          
+         },
+         {
+            "id" : "4",
+            "brand":"Snitch",
+            "rating":4.3,
+            "img": "https://images.bewakoof.com/t1080/men-s-red-slim-fit-shirt-582741-1678431094-1.jpg",
+            "title": "Men's Red Slim Fit Shirt",
+            "category":"t-shirt",
+            "price": 699,
+            "size": "L"
+          
+         },
+         {
+            "id" : "5",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-red-quad-checked-slim-fit-shirt-582500-1678191731-1.jpg",
+            "title": "Men's Red Slim Fit Shirt",
+            "category":"t-shirt",
+            "price": 899,
+            "size": "M"
+          
+         },
+         {
+            "id" : "6",
+            "brand":"Snitch",
+            "rating":4.6,
+            "img": "https://images.bewakoof.com/t1080/men-s-blue-sassy-striped-slim-fit-shirt-582527-1678191000-1.jpg",
+            "title": "Men's Blue Slim Fit Shirt",
+            "category":"t-shirt",
+            "price": 999,
+            "size": "M"
+          
+         },
+         {
+            "id" : "7",
+            "brand":"Snitch",
+            "rating":4.5,
+            "img": "https://images.bewakoof.com/t1080/men-s-yellow-band-striped-slim-fit-shirt-582495-1678190921-1.jpg",
+            "title": "Men's Yellow Slim Fit Shirt",
+            "category":"shirt",
+            "price": 799,
+            "size": "L"
+          
+         },
+         {
+            "id" : "8",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-green-checked-slim-fit-shirt-582506-1678190789-1.jpg",
+            "title": "Men's Green Slim Fit Shirt",
+            "category":"shirt",
+            "price": 859,
+            "size": "L"
+          
+         },
+         {
+            "id" : "9",
+            "brand":"Snitch",
+            "rating":4.3,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-blue-yoke-style-slim-fit-denim-shirt-571366-1674473565-1.jpg",
+            "title": "Men's Blue Denim Shirt",
+            "category":"shirt",
+            "price": 759,
+            "size": "M"
+          
+         },
+         {
+            "id" : "10",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-blue-exo-leaf-floral-printed-slim-fit-shirt-571810-1674563628-1.jpg",
+            "title": "Men's Blue Slim Fit Shirt",
+            "category":"shirt",
+            "price": 979,
+            "size": "M"
+          
+         },
+         {
+            "id" : "11",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-blue-washed-bootcut-jeans-582356-1677831110-1.jpg",
+            "title": "Men's Blue Bootcut Jeans",
+            "category":"jeans",
+            "price": 1979,
+            "size": "L"
+          
+         },
+         {
+            "id" : "12",
+            "brand":"Snitch",
+            "rating":4.5,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-drift-blue-washed-skinny-fit-jeans-2-580653-1676617664-1.jpg",
+            "title": "Men's Skinny Fit Jeans",
+            "category":"jeans",
+            "price": 1179,
+            "size": "M"
+          
+         },
+         {
+            "id" : "13",
+            "brand":"Snitch",
+            "rating":4.6,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-drift-blue-washed-skinny-fit-jeans-2-580653-1676617664-1.jpg",
+            "title": "Men's Skinny Fit Jeans",
+            "category":"jeans",
+            "price": 1179,
+            "size": "M"
+          
+         },
+         {
+            "id" : "14",
+            "brand":"Snitch",
+            "rating":4.6,
+            "img": "https://images.bewakoof.com/t1080/men-s-white-skinny-fit-jeans-552820-1667540322-1.jpg",
+            "title": "Men's White Skinny Fit Jeans",
+            "category":"jeans",
+            "price": 1479,
+            "size": "L"
+          
+         },
+         {
+            "id" : "15",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-blue-washed-bootcut-jeans-555389-1668688570-1.jpg",
+            "title": "Men's Blue Bootcut Jeans",
+            "category":"jeans",
+            "price": 1279,
+            "size": "M"
+          
+         },
+         {
+            "id" : "16",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-blue-washed-skinny-fit-jeans-555387-1668688443-1.jpg",
+            "title": "Men's Blue Skinny Fit Jeans",
+            "category":"jeans",
+            "price": 1379,
+            "size": "L"
+          
+         },
+         {
+            "id" : "17",
+            "brand":"Snitch",
+            "rating":4.5,
+            "img": "https://images.bewakoof.com/t1080/men-s-black-ripped-skinny-fit-jeans-496038-1656142074-1.jpg",
+            "title": "Men's Black Skinny Fit Jeans",
+            "category":"jeans",
+            "price": 1179,
+            "size": "M"
+          
+         },
+         {
+            "id" : "18",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/men-s-blue-washed-bootcut-jeans-555384-1668688538-1.jpg",
+            "title": "Men's Blue Skinny Fit Jeans",
+            "category":"jeans",
+            "price": 1379,
+            "size": "L"
+          
+         },
+         {
+            "id" : "19",
+            "brand":"Snitch",
+            "rating":4.3,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-crux-blue-washed-skinny-fit-jeans-580652-1676617495-1.jpg",
+            "title": "Men's Crux Blue Jeans",
+            "category":"jeans",
+            "price": 1779,
+            "size": "M"
+          
+         },
+         {
+            "id" : "20",
+            "brand":"Snitch",
+            "rating":4.4,
+            "img": "https://images.bewakoof.com/t1080/snitch-men-s-drift-admire-blue-washed-skinny-fit-jeans-580654-1676617539-1.jpg",
+            "title": "Men's admire Blue Jeans",
+            "category":"jeans",
+            "price": 1979,
+            "size": "L"
+          
+         }
+         
+    ],
+    "women": [
+      { "id": 1, "body": "comment", "postId": 1 ,"title":"abc"}
+    ],
+    "kids": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+      ],
+    "profile": { "name": "typicode" }
+  }
