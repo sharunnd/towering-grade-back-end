@@ -225,8 +225,11 @@
     "women": [
       { "id": 1, "body": "comment", "postId": 1 ,"title":"abc"}
     ],
-    "kids": [
-        { "id": 1, "body": "some comment", "postId": 1 }
+    "cart": [
+        
       ],
+    "login": [
+         { "username": "sharun", "password": 1234}
+       ],
     "profile": { "name": "typicode" }
   }
